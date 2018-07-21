@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pinyougou-pojo:war exploded">
+    <output-path>$PROJECT_DIR$/pingyougou-parent/pinyougou-pojo/target/pinyougou-pojo</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pinyougou-pojo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.0.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.0.4" />
+          <element id="library" level="project" name="Maven: xalan:xalan:2.6.0" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.4.01" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/pingyougou-parent/pinyougou-pojo/target/pinyougou-pojo/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="pinyougou-pojo/web/Web" />
+    </root>
+  </artifact>
+</component>

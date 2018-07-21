@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/pingyougou-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-page/pingyougou-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-page/pingyougou-page-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-page/pinyougou-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-search/pinyougou-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-search/pinyougou-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pingyougou-solr-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-content/pinyougou-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-content/pinyougou-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager/pinyougou-goods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager/pinyougou-goods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager/pinyougou-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-manager/pinyougou-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pingyougou-parent/pinyougou-shop-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
